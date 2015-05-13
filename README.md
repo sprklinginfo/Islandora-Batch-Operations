@@ -25,3 +25,5 @@ Islandora Entity Bridge Actions
 Updating scripts
 - https://github.com/roblib/scripts
 
+Documentation for developers
+- https://github.com/Islandora/islandora/wiki#documentation-for-developers
