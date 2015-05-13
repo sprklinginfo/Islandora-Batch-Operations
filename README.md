@@ -27,3 +27,6 @@ Updating scripts
 
 Documentation for developers
 - https://github.com/Islandora/islandora/wiki#documentation-for-developers
+
+Bulk operations
+- https://github.com/philred/islandora_bulk_operations
