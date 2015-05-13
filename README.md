@@ -1,5 +1,11 @@
 # Islandora-Batch-Operations
 
+## Goal
+Perform bulk operations on existing objects in Islandora/Fedora
+- View objects based on pid, namespace, solution pack, parent object, custom query?
+- Select single, multiple, all objects from query
+- Perform operation on selected objects: add/edit/delete datastreams, delete objects, delete datastreams
+
 ## Resources
 
 Batch editing XML documents stored in Fedora
